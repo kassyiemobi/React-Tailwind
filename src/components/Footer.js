@@ -14,7 +14,7 @@ function Footer() {
                     <FaGithubSquare size={30} />
                     <FaDribbbleSquare size={30}/>
                 </div>
-                <div className='md:col-span-2 flex justify-between'>
+                <div className='lg:col-span-2 flex justify-between'>
                     <div>
                         <h6 className='font-meduim text-gray-400'>Solutions</h6>
                         <ul>
